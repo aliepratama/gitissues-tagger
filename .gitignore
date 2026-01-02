@@ -1,0 +1,20 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Node (for chrome-extension if needed)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python (Global)
+__pycache__/
+*.py[cod]
+.venv
+env/
